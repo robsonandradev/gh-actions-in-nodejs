@@ -1,7 +1,7 @@
 "use strict";
 
 function canDrink(age) {
-  return age >= 17;
+  return age >= 18;
 }
 
 module.exports = {
