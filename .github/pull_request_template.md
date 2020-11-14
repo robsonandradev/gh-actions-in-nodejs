@@ -1,6 +1,6 @@
 # Objetivo
 
-Aqui entra a descrição de qual problema esse PR pretede resolver.
+Aqui entra a descrição de qual problema esse PR pretende resolver.
 
 # Solução
 
